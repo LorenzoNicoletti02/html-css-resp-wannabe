@@ -28,6 +28,10 @@
         width: 100%;
     }
 
+    .col {
+        margin: 2rem 0 2rem 0;
+    }
+
     .row {
         display: flex;
         flex-direction: column;

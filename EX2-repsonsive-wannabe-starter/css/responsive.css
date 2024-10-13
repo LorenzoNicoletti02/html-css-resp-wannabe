@@ -24,9 +24,24 @@
     .lessons .col {
         width: 100%;
     }
+    
+    .steps {
+        margin-bottom: 0%;
+        padding-bottom: 2rem;
+    }
+
+    .col {
+        margin: 2rem 0 2rem 0;
+    }
 
     .steps .col {
         width: 100%;
+    }
+
+    .why-us {
+        background-color: rgb(46, 46, 46);
+        margin-bottom: 0%;
+        padding: 2rem 0 2rem 0;
     }
 
     .why-us .col-left {
@@ -37,14 +52,23 @@
         width: 100%;
     }
 
-    .col {
-        margin: 2rem 0 2rem 0;
-    }
-
     .row {
         display: flex;
         flex-direction: column;
         align-items: center;
     }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
 }
     
